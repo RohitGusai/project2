@@ -6,3 +6,5 @@
 // Rohit is too Lazy and indiscipline
 
 // shoba is finding a job
+
+// Joker always laugh in front of his auidence but at back stage he is atually sad
