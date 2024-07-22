@@ -17,7 +17,6 @@ for(input of output)
     i++;
 }
 
-
 let query = document.querySelector('div');
 
 let values = query.getAttribute('value');
